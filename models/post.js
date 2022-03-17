@@ -30,7 +30,7 @@ post.init(
         sequelize,
         timestamps: false,
         freezeTableName: true,
-        modelName: 'todo'
+        modelName: 'post'
     }
 );
 
